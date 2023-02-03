@@ -1,4 +1,4 @@
 # kitap-yurdu
 
 My first project in spring microservice
-end date june 2022
+end date is june 2022
